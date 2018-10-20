@@ -1,5 +1,5 @@
 # Simple-Blockchain-in-Python
-Simple Blockchain you can create in Python in Just 5 minutes. This repository contains the code as explained by Siraj Raval in this [video](https://www.youtube.com/watch?v=MViBvQXQ3mM)  
+Simple Blockchain you can create in Python in Just 5 minutes. This repository contains the code as explained by Siraj Raval in this [video](https://www.youtube.com/watch?v=MViBvQXQ3mM). You can run the code from this link - [Simple Blockchain in 5 Minutes](https://blockchain-sin2akshay.notebooks.azure.com/j/notebooks/Simple_Blockchain.ipynb)  
   
 It is a work in progress and more resources will be added later. For now this is a good started to understand Blockchain. Below I have listed some of the resources that will give you more insight on Blockchain and Ethereum.
 
