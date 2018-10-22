@@ -8,10 +8,10 @@ ___
 # Blockchain Resources
 
 Following are the resources provided in the Blockchain specialization course on Coursera and a few other resources I found useful while learning Blockchain.  
-:star: Best Resources are marked with a star.  It is a work in Progress and will be updated as I go forward.
+:star: Best Resources are marked with a star.  It is a work in Progress and will be updated as I go forward.  
 :heavy_check_mark: After reading/watching the resource, put a tick mark.  
   
-*Please mention the resources you think would be helpful here in the comments*  
+*Please mention the resources you think would be helpful by raising PR*  
   
 ## Bitcoin and Blockchain <br />
 
